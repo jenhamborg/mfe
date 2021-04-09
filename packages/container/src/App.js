@@ -6,7 +6,7 @@ import MarketingApp from './components/MarketingApp';
 export default () => {
     return (
     <>
-        <div>Hi There!!!!</div>
+        <div>Hi there happy Friday!!!!</div>
         <hr />
         <MarketingApp />
     </>
