@@ -20,7 +20,7 @@ const devConfig = {
       },
       shared: packageJson.dependencies,
     }),
-   
+
   ],
 };
 
